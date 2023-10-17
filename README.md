@@ -32,6 +32,5 @@ app.jsx: Contains the React application source code.
 contracts: Includes the Solidity smart contract code for the NFTs.
 README.md: This file, containing project documentation.
 
-
 Contributors
 [Kurmanbay Abylkair, Orynbekova Ainura, Kassymkhanov Nursultan]
