@@ -34,4 +34,4 @@ README.md: This file, containing project documentation.
 
 
 Contributors
-[Orynbekova Ainura, Kassymkhanov Nursultan, ]
+[Kurmanbay Abylkair, Orynbekova Ainura, Kassymkhanov Nursultan]
